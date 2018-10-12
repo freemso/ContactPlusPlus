@@ -22,7 +22,7 @@
 
 -----
 
-## * 月 * 日
+## 10 月 12 日
 
 ### 议程
 
@@ -45,7 +45,7 @@
 
 最常用的通讯录应用，就是大家手机或电脑上的那个操作系统自带的。
 
-目前市面上有很多很好的*商用的*通讯录管理软件[^1]，比如 [Insightly](https://www.insightly.com)，[Maximizer](https://www.maximizer.com)，[FullContact](https://www.fullcontact.com/)，和 [Nutshell](https://www.nutshell.com) 等。但他们都是面向公司、团队的，侧重商业关系的维持和管理，并且整合了许多诸如项目管理、日程管理等功能。他们大多价格不菲，不是普通用户能够接受的。
+目前市面上有[很多很好的**商用**通讯录管理软件](https://www.techradar.com/news/best-contact-management-software)，比如 [Insightly](https://www.insightly.com)，[Maximizer](https://www.maximizer.com)，[FullContact](https://www.fullcontact.com/)，和 [Nutshell](https://www.nutshell.com) 等。但他们都是面向公司、团队的，侧重商业关系的维持和管理，并且整合了许多诸如项目管理、日程管理等功能。他们大多价格不菲，不是普通用户能够接受的。
 
 同时，市面上也有一大堆面向个人用户的通讯录管理软件，比如 [CardHop](https://flexibits.com/cardhop)，[Folk](https://folk.io/)，[Cloze](https://www.cloze.com/)，[Addappt](http://site.addappt.com/)，[Sync.Me](https://sync.me/)，[Contact+](https://www.contactspls.com/)，和 [Covve](https://covve.com/) 等。其中不乏做得非常好的。它们之中有 macOS 客户端，有 iOS 客户端，还有 Android 与 iOS 都支持的。它们之中有单机版的（即不需要注册，安装即可用的），也有需要注册的。
 
@@ -87,6 +87,4 @@
 
 ### Trello 的使用
 
-本项目将使用 Trello 作为项目管理的工具。
-
-[^1]: 参考 https://www.techradar.com/news/best-contact-management-software
+本项目将使用 [Trello](https://trello.com) 作为项目管理的工具。项目的 [Trello 链接](https://trello.com/b/dv9FUoqx/%E9%80%9A%E8%AE%AF%E5%BD%95-%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E8%AF%BE%E7%A8%8B%E9%A1%B9%E7%9B%AE)。
